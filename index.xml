@@ -84,7 +84,7 @@ m: +353 86 8315466</description>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://keatingsc.github.io/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the Web. This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. Compare the source file, in &lt;strong&gt;markdown-syntax.md&lt;/strong&gt; in my &lt;a href=&#34;https://github.com/keatingsc/technical-writing/tree/main/content/posts&#34;&gt;Git repository&lt;/a&gt;, to see how the Markdown content is rendered in this HTML output. For more details, see &lt;a href=&#34;https://guides.github.com/features/mastering-markdown/&#34;&gt;GitHub Flavored Markdown&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
