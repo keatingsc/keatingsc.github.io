@@ -1,2 +1,2 @@
-# obriensc.github.io
+# keatingsc.github.io
 Hugo profile site
