@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on Siobhán Keating, Technical Writer</title>
+    <title>syntax on Siobhán O'Brien, Technical Writer</title>
     <link>https://keatingsc.github.io/categories/syntax/</link>
-    <description>Recent content in syntax on Siobhán Keating, Technical Writer</description>
+    <description>Recent content in syntax on Siobhán O'Brien, Technical Writer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://keatingsc.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
@@ -11,10 +11,10 @@
       <title>A short guide to Markdown syntax</title>
       <link>https://keatingsc.github.io/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
+
       <guid>https://keatingsc.github.io/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the Web. This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme. Compare the source file, in &lt;strong&gt;markdown-syntax.md&lt;/strong&gt; in my &lt;a href=&#34;https://github.com/keatingsc/technical-writing/tree/main/content/posts&#34;&gt;Git repository&lt;/a&gt;, to see how the Markdown content is rendered in this HTML output. For more details, see &lt;a href=&#34;https://guides.github.com/features/mastering-markdown/&#34;&gt;GitHub Flavored Markdown&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
+
   </channel>
 </rss>
